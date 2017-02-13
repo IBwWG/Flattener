@@ -1,6 +1,8 @@
 # Flattener
 Code sample (array flattener in Perl)
 
+Edit: Sorry, [also available as a gist](https://gist.github.com/IBwWG/c730fd4a9bc9eb13bac7273f4ac3cef8), in case that makes a difference.
+
 For simplicity given the scope of the sample, tests and the function being tested are all kept in one file.
 
 To run the tests simply call perl with `flatten.pl` as its argument.  Results should be similar to:
